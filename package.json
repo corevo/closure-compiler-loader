@@ -1,8 +1,24 @@
 {
   "name": "closure-compiler-loader",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Webpack loader for Google's Closure Compiler",
   "main": "index.js",
-  "author": "corevo",
+  "author": "Tomer Steinfeld <tomer@corevo.io>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corevo/closure-compiler-loader.git"
+  },
+  "keywords": [
+    "google",
+    "closure",
+    "compiler",
+    "webpack",
+    "loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/corevo/closure-compiler-loader/issues"
+  },
+  "homepage": "https://github.com/corevo/closure-compiler-loader#readme"
 }
